@@ -1,1 +1,1 @@
-include ':app', ':TextViewCustomeLIB', ':lib2'
+include ':app'
